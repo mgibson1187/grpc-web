@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 
 	"github.com/sirupsen/logrus"
-	"github.com/mwitkow/grpc-proxy/proxy"
+	"github.com/roof12/grpc-proxy/proxy"
 	"github.com/spf13/pflag"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
